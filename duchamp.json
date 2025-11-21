@@ -6,10 +6,10 @@
       "oem": "Xiaomi",
       "device": "duchamp",
       "filename": "EvolutionX-16.0-20251120-duchamp-11.4.1-Unofficial.zip",
-      "download": "hhttps://drive.serverhive.in/drive/2ka4jcosZ3byEDEeFH9FDMzx/duchamp/2025-11-20/EvolutionX-16.0-20251120-duchamp-11.4.1-Unofficial.zip",
+      "download": "https://drive.serverhive.in/drive/2ka4jcosZ3byEDEeFH9FDMzx/duchamp/2025-11-21/EvolutionX-16.0-20251120-duchamp-11.4.1-Unofficial.zip",
       "timestamp": 1763669390,
-      "md5": "de6a4ceebcac98d8e0c0e3beebdf7e0f",
-      "sha256": "5c26e36439eece9ebffc0845d1af0d90c8bbac9ef09798fbbb189534eaa9805d",
+      "md5": "32d8065e2b86a00056a2b5a2605865fb",
+      "sha256": "7bcd6e7911fc64a90f3a984ee88560558065cf468710cbf62ad9a8fa5c479ae6",
       "size": 3020000000,
       "version": "11.4.1",
       "buildtype": "userdebug",
@@ -28,5 +28,6 @@
     }
   ]
 }
+
 
 
